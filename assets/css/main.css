@@ -116,6 +116,10 @@ h6 {
   padding: 15px;
   margin-bottom: 24px;
 }
+.project-image{
+  width: 10rem;
+  height: 5rem;
+}
 
 .php-email-form .loading:before {
   content: "";
